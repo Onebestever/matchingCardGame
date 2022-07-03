@@ -14,7 +14,7 @@ Post
 
 Modified from Scotch.io's auth tutorial
 
-<img src="img/biopic.png" alt="project example" width="250" height="300">
+<img src="img/biopic.png" alt="project example" width="400" height="400">
 ## Background
 
 Modified from Scotch.io's auth tutorial
